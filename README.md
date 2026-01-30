@@ -27,7 +27,7 @@ symfony/console                  6.4.32 Eases the creation of beautiful and test
 The this is a simple and very stupid script where returns 0 (successful execution).
 
 ```bash
-./application.php foo && echo success || failure
+./application/application.php foo && echo success || failure
 ```
 
 It returns `success`.
